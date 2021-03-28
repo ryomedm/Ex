@@ -1,0 +1,39 @@
+@media(max-width:1044px){
+   .container{
+      max-width: 800px;
+      margin: 0 auto;
+   }
+}
+@media(max-width:822px){
+   .container{
+      max-width: 600px;
+      margin: 0 auto;
+   }
+}
+@media(max-width:632px){
+   .container{
+      max-width: 400px;
+      margin: 0 auto;
+   }
+   #title{
+      font-size: 33px;
+   }
+}
+@media(max-width:424px){
+   .container{
+      max-width: 320px;
+      margin: 0 auto;
+   }
+   #title{
+      font-size: 25px;
+   }
+   #carImg{
+      width: 320px;
+   }
+   #fenceImg{
+      width: 320px;
+   }
+   #plantImg{
+      width: 320px;
+   }
+}
